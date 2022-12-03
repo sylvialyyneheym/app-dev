@@ -7,6 +7,7 @@
 ### My favorite Movie or series
 1. **The three (3) idiots**
 - The story of the 3 protagonists where 1 of the protagonists is hiding his intellect it is created by Rajkumar Hirani (2009)
+- Additional info about the movie [3Idiots][https://simple.wikipedia.org/wiki/3_Idiots]
 
 2. **The tales of demons and gods**
 - A story of an adult man that died because the 3 primal gods betray him and after he died, he reincarnated back to his past where in he retained the knowledge that he obtained throughout his lives as a result he is considered as a "Child prodigy"
