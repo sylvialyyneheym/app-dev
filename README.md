@@ -1,10 +1,10 @@
 # app-dev
 My first repository
 
-My name is Brianlouis Marcos
+##My name is Brianlouis Marcos
 ==
 
-# My favorite Movie or series
+### My favorite Movie or series
 1. "The three (3) idiots"
 - The story of the 3 protagonists where 1 of the protagonists is hiding his intellect it is created by Rajkumar Hirani (2009)
 
@@ -15,10 +15,4 @@ My name is Brianlouis Marcos
 - It is the story of "Ayanokouji where he transferred to the school as Class D where in the class is divided into four(4) category, Class A, Class B, Class C, and Class D, whereas the Class D is the worst class and ayanokouji is secretly intelligent/hiding his power.
 
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+
