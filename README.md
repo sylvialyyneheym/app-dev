@@ -17,5 +17,9 @@
 - It is the story of "Ayanokouji where he transferred to the school as Class D where in the class is divided into four(4) category, Class A, Class B, Class C, and Class D, whereas the Class D is the worst class and ayanokouji is secretly intelligent/hiding his power.
 - Additional info about the movie click: [Classroom of the Elite](https://en.wikipedia.org/wiki/Classroom_of_the_Elite)
 
+## List of links for watching.
+- [AnimeDao](https://animedao.to/) -Anime
+- [LokLok](https://loklok.com/) -Movies
+
 
 
