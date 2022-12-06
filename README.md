@@ -5,7 +5,6 @@
 
 
 ### My favorite Movie or series
-![3 idiots](https://user-images.githubusercontent.com/103444203/205903559-1f1e9364-11a0-4527-bc5d-59beebe583f1.jpg)
 <img src = "https://user-images.githubusercontent.com/103444203/205903559-1f1e9364-11a0-4527-bc5d-59beebe583f1.jpg" width = "600" height = "300">
 1. **The three (3) idiots**
 - The story of the 3 protagonists where 1 of the protagonists is hiding his intellect it is created by Rajkumar Hirani (2009)
