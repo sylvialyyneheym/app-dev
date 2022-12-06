@@ -1,9 +1,9 @@
-# app-dev
+``` # app-dev
 
 
-## My name is Brianlouis Marcos
+## My name is Brianlouis Marcos 
 
-
+```
 ### My favorite Movie or series
 <img src = "https://user-images.githubusercontent.com/103444203/205903559-1f1e9364-11a0-4527-bc5d-59beebe583f1.jpg" width = "600" height = "300">
 
@@ -27,11 +27,4 @@
 - [AnimeDao](https://animedao.to/) -Anime
 - [LokLok](https://loklok.com/) -Movies
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
 
