@@ -1,6 +1,6 @@
 
-### This article is about my personal favorite movies/animes 
-Created by: Brianlouis Marcos ❤ 
+# This article is about my personal favorite movies/animes 
+## Created by: Brianlouis Marcos ❤ 
 
 ### My favorite Movie or series
 <img src = "https://user-images.githubusercontent.com/103444203/205903559-1f1e9364-11a0-4527-bc5d-59beebe583f1.jpg" width = "600" height = "300">
