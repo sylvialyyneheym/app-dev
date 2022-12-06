@@ -18,8 +18,8 @@
 - Additional info about the movie click: [Classroom of the Elite](https://en.wikipedia.org/wiki/Classroom_of_the_Elite)
 
 ## List of links for watching.
-- [AnimeDao](https://animedao.to/) -Anime
-- [LokLok](https://loklok.com/) -Movies
+> [AnimeDao](https://animedao.to/) -Anime
+> [LokLok](https://loklok.com/) -Movies
 
 
 
