@@ -1,7 +1,8 @@
 ``` 
 This article is about my personal favorite movies/animes 
-Created by: <span style="color: red;">Brianlouis Marcos.</span>
+Created by: 
 ```
+<span style="color: green"> Some green text </span>
 ### My favorite Movie or series
 <img src = "https://user-images.githubusercontent.com/103444203/205903559-1f1e9364-11a0-4527-bc5d-59beebe583f1.jpg" width = "600" height = "300">
 
