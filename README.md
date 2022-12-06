@@ -8,7 +8,7 @@
 <img src = "https://user-images.githubusercontent.com/103444203/205903559-1f1e9364-11a0-4527-bc5d-59beebe583f1.jpg" width = "600" height = "300">
 
 1. **The three (3) idiots**
-- The story of the 3 protagonists where 1 of the protagonists is hiding his intellect it is created by Rajkumar Hirani (2009)
+- The story of the 3 protagonists where 1 of the protagonists is hiding his intellect and enjoying the class throughout the years. it is created by Rajkumar Hirani (2009)
 - Additional info about the movie click: [3 Idiots](https://simple.wikipedia.org/wiki/3_Idiots)
 
 <img src = "https://user-images.githubusercontent.com/103444203/205904390-862a7ca4-6fb4-4187-be17-0890fa8ef84c.jpg" width = "600" height = "300">
