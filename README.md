@@ -11,6 +11,8 @@
 - The story of the 3 protagonists where 1 of the protagonists is hiding his intellect it is created by Rajkumar Hirani (2009)
 - Additional info about the movie click: [3 Idiots](https://simple.wikipedia.org/wiki/3_Idiots)
 
+<img src = "https://user-images.githubusercontent.com/103444203/205904390-862a7ca4-6fb4-4187-be17-0890fa8ef84c.jpg" width = "600" height = "300">
+
 2. **The tales of demons and gods**
 - A story of an adult man that died because the 3 primal gods betray him and after he died, he reincarnated back to his past where in he retained the knowledge that he obtained throughout his lives as a result he is considered as a "Child prodigy"
 - Additional info about the movie click: [Tales Of Demons and Gods](https://thetvdb.com/series/tales-of-demons-and-gods#:~:text=Killed%20by%20a%20Sage%20Emperor,and%20those%20of%20his%20beloved%20.)
