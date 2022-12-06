@@ -27,5 +27,10 @@
 - [AnimeDao](https://animedao.to/) -Anime
 - [LokLok](https://loklok.com/) -Movies
 
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
 
 
